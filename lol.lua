@@ -12,7 +12,7 @@ local video = Instance.new("VideoFrame", ScreenGui)
 
 video.Size = UDim2.new(1,0,1,0)
 
-local Name = "spin.mp4"
+local Name = "4k.mp4"
 
 if not isfile(Name) then
     writefile(Name, game:HttpGet("https://github.com/BirthScripts/REA/blob/main/4k.mp4?raw=true"))
