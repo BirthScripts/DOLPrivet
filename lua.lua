@@ -24,4 +24,4 @@ repeat task.wait() print("Retrying...") until video.Loaded
 
 video:Play()
 
-warn("Prepare for your parents to catch you in 4K!")
+warn("spinninge!!11")
